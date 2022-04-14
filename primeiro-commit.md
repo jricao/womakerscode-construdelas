@@ -1,1 +1,1 @@
-Primeira aula prática 
+Primeira aula prática de git e github
